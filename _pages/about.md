@@ -5,7 +5,7 @@ permalink: /about/
 
 # Doç. Dr. Sezen Güngör
 
-Ben, Tekirdağ Namık Kemal Üniversitesi Finans Bölümü'nde öğretim üyesi olarak çalışıyorum. Araştırma alanlarım arasında **davranışsal finans**, **genoekonomi**, ve **finansal karar alma süreçlerinin genetik temelleri** yer almaktadır. 
+Tekirdağ Namık Kemal Üniversitesinde öğretim üyesi olarak çalışıyorum. Araştırma alanlarım arasında **davranışsal finans**, **genoekonomi**, ve **finansal karar alma süreçlerinin genetik temelleri** yer almaktadır. 
 
 📚 **Araştırma İlgi Alanları:**
 - Davranışsal finans ve yatırımcı önyargıları
