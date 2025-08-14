@@ -19,4 +19,4 @@ Ben, Tekirdağ Namık Kemal Üniversitesi Finans Bölümü'nde öğretim üyesi 
 
 📫 **İletişim:**
 - E-posta: sezengungor@nku.edu.tr
-- LinkedIn: [linkedin.com/in/sezengungor](https://www.linkedin.com/in/sezengungor/)
+- LinkedIn: [linkedin.com/in/sezengungor](https://www.linkedin.com/in/sezen-g%C3%BCng%C3%B6r-40235795/)
